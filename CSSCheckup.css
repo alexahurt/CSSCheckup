@@ -1,0 +1,22 @@
+body {
+    background-color: orange;
+}
+
+
+
+.wrapper{
+    font-size: 50px;
+    font-family: arial;
+    color: yellow;
+    text-align: center
+}
+    
+    #footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    background-color: orange;
+    border: 3px solid black;
+    font-family: arial;
+    }
